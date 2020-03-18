@@ -1,5 +1,5 @@
 # Basic-ML-Fundamentals
-Example implementations of some of the fundamental Machine Learning models and algorithms
+Example implementations of some fundamental Machine Learning models and algorithms
 
 The purpose of this repo is to implement Machine learning algorithms fundamentals in collection of Python scripts using Google Colab.
 
